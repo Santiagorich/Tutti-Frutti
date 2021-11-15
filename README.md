@@ -11,3 +11,4 @@ pip install beautifulsoup4
 ```
 py 'Tutti Frutti.py'
 ```
+![2021-11-14 22-43-53 (2)](https://user-images.githubusercontent.com/48382642/141709751-24c5a94c-9eb6-4ca2-888a-e97670f3f82b.gif)
